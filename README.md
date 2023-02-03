@@ -1,4 +1,4 @@
-[Leer en Español](../blob/master/README-ES.md)
+[Leer en Español](../master/README-ES.md)
 
 # Hi there 👋
 
