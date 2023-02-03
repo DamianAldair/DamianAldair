@@ -1,4 +1,4 @@
-Read in English
+[Read in English](../master/README.md)
 
 # Hola 👋
 
