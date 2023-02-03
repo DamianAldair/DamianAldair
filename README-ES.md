@@ -11,12 +11,12 @@ Me he adentrado en el mundo de Flutter y desde el comienzo me encantó y no pued
 ## Projectos
 
 - Flutter
-  - Paquetes
-  - Aplicaciones
-- Java
-  - Librerías
-  - Aplicaciones
+  - [Paquetes](../master/projects/flutter/packages.md)
+      <!-- - Aplicaciones -->
+    <!-- - Java -->
+      <!-- - Librerías -->
+      <!-- - Aplicaciones -->
 - Windows
-  - Batch
-  - Programas
-  - Programas basados en Java
+  - [Batch](../master/projects/windows/batches.md)
+    <!-- - Programas -->
+    <!-- - Programas basados en Java -->

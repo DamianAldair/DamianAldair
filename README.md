@@ -11,12 +11,12 @@ I got into the world of Flutter and from the beginning I loved it and I can't st
 ## Projects
 
 - Flutter
-  - Packages
-  - Apps
-- Java
-  - Libraries
-  - Apps
+  - [Packages](../master/projects/flutter/packages.md)
+      <!-- - Apps -->
+    <!-- - Java -->
+      <!-- - Libraries -->
+      <!-- - Apps -->
 - Windows
-  - Batch
-  - Apps
-  - Java based apps
+  - [Batch](../master/projects/windows/batches.md)
+    <!-- - Apps -->
+    <!-- - Java based apps -->
