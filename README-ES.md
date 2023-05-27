@@ -8,6 +8,8 @@ Me encanta el desarrollo de aplicaciones para dispositivos móviles y para orden
 
 Me he adentrado en el mundo de Flutter y desde el comienzo me encantó y no puedo dejar de programar con él. Pero también tengo en mis planes conocer, estudiar y utilizar otros lenguajes de programación, frameworks, tecnologías, plataformas, etc.
 
+[Mi web](https://damianaldair.github.io/)
+
 ## Projectos
 
 - Flutter
