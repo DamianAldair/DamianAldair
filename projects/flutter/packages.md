@@ -9,6 +9,8 @@
 | QR - EU Digital COVID Certificate | [Link][qr_eu_digital_covid_certificate__github] | [Link][qr_eu_digital_covid_certificate__pubdev] |
 | Adaptive Locale                   | [Link][adaptive_locale__github]                 | [Link][adaptive_locale__pubdev]                 |
 | Changelog Widgets                 | [Link][changelog_widgets__github]               | [Link][changelog_widgets__pubdev]               |
+| Changelog Widgets for Fluent UI   | [Link][changelog_widgets_fluent_ui__github]     | [Link][changelog_widgets_fluent_ui__pubdev]     |
+| LicenseView for Fluent UI         | [Link][license_view_fluent_ui__github]          | [Link][license_view_fluent_ui__pubdev]          |
 
 [just_transitions__github]: https://github.com/DamianAldair/just_transitions
 [just_transitions__pubdev]: https://pub.dev/packages/just_transitions
@@ -20,3 +22,7 @@
 [adaptive_locale__pubdev]: https://pub.dev/packages/adaptive_locale
 [changelog_widgets__github]: https://github.com/DamianAldair/changelog_widgets
 [changelog_widgets__pubdev]: https://pub.dev/packages/changelog_widgets
+[changelog_widgets_fluent_ui__github]: https://github.com/DamianAldair/changelog_widgets_fluent_ui
+[changelog_widgets_fluent_ui__pubdev]: https://pub.dev/packages/changelog_widgets_fluent_ui
+[license_view_fluent_ui__github]: https://github.com/DamianAldair/license_view_fluent_ui
+[license_view_fluent_ui__pubdev]: https://pub.dev/packages/license_view_fluent_ui
